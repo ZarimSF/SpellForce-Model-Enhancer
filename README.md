@@ -9,7 +9,7 @@ You need other tools to do this, namely:
   
 Note: Some/many (didn't have time to view through 2000 or so meshes) models don't look better or even worse than the originals. Especially sharp edges suffer a lot, and often textures look a bit weird. Also, performance may suffer quite a bit.  
   
-I am not a Python-programmer, so perhaps the code is ugly ;-)
+Lastly, I am not a Python-programmer, so perhaps the code is ugly ;-)
 
 # Setup:
 Import the spellforce_blender_plugins `import_skinned_msb.py` and `export_skinned_msb.py` into blender.  
