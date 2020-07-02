@@ -12,7 +12,7 @@ Note: Some/many (didn't have time to view through 2000 or so meshes) models don'
 Lastly, I am not a Python-programmer, so perhaps the code is ugly ;-)
 
 # Setup:
-Import the spellforce_blender_plugins `import_skinned_msb.py` and `export_skinned_msb.py` into blender.  
+Import the spellforce_blender_plugins `import_skinned_msb.py` and `export_skinned_msb.py` into blender (important: import from the `2.8` folder!).  
 I had an issue with the original files, so I edited line 616 (import_skinned_msb) to `bl_idname = "import_scene.msb_skinned"` and line 552 (export_skinned_msb) to `bl_idname = "export_scene.msb_skinned"`.  
 You will also have to modify lines 6 and 7 in `sf-enhance.py` to your desired directories. Then, copy `createDirs.bat` to your output folder and execute it (just so you don't have to create the folder-hierarchy manually).
 
