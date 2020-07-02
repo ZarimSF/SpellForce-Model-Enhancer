@@ -3,7 +3,7 @@ Just a script to (maybe) improve Spellforce 1 models.
 
 # Disclaimer:
 You need other tools to do this, namely:
-- Blender
+- [Blender](https://www.blender.org/download/)
 - leszekd25's [spellforce_blender_plugins](https://github.com/leszekd25/spellforce_blender_plugins)
 - a tool to unpack Spellforce files like leszekd25's [spellforce_data_editor](https://github.com/leszekd25/spellforce_data_editor) or elbereth's [DragonUnPACKer](https://github.com/elbereth/DragonUnPACKer/). The first is a great tool in general, but I'd recommend second if you want to do "mass-conversion".  
   
