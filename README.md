@@ -33,6 +33,4 @@ If errors occure, try to understand the error messages and check if you executed
 Once this is done, you will have to copy the `animation`, `skinning` and `mesh` folders into your game directory. While backupping is always good, the original game files should stay untouched in the process.
 
 # What it does
-The script simply automates the import and export process and applies the subdivision-modifier to the models. This smoothens out surfaces and adds new polygons in the process. This reduces in-game performance.  
-  
-To be continued...
+The script simply automates the import and export process and applies the subdivision-modifier to the models. This smoothens out surfaces and adds new polygons in the process. This will likely reduce in-game performance.  
