@@ -1,5 +1,6 @@
 # SpellForce_Mesh-Enhancer
 A tiny script to (maybe) improve Spellforce 1 models.
+(Edit: It does not actually improve anything but makes everything worse. Please don't use it :-) )
 
 # Disclaimer:
 You need other tools to do this, namely:
